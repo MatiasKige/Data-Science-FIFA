@@ -11,7 +11,6 @@ weight_kg = peso en kg
 club_name = nombre del club
 league_name = nombre de la liga (del club)
 club_jersey_number = numero de camiseta (en club)
-club_loaned_from = club que presta al jugador (dueño del pase)
 club_joined_date = fecha de ingreso al club (A/M/D)
 club_contract_valid_until_year = contrato valido hasta el año
 nationality_name = nacionalidad
