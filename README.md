@@ -1,4 +1,5 @@
 Buenos días/tardes/noches,
+
 Mi nombre es Matías Omar Gigena, soy programador Python y estudiante de Data Science en Coderhouse. Con 26 años de edad, decidí adentrarme en el mundo de la programación hace dos años con el firme propósito de convertirme en un profesional destacado en este campo y aspirar a ocupar roles de importancia en el futuro. 
 Me complace presentarles ProyectoFIFA, una iniciativa que surge en respuesta a la solicitud del Club argentino de fútbol Boca Juniors. Este proyecto se centra en el análisis exhaustivo de los datos contenidos en el archivo de jugadores de fútbol registrados en la FIFA, con el objetivo de proporcionar información valiosa para el club. Además, se nos encomienda la tarea de realizar modificaciones pertinentes en los datos, tales como la salida e ingreso de jugadores, posibles contrataciones, convocatorias, entre otros aspectos relevantes.
 Este trabajo fue llevado a cabo de manera individual en un periodo de siete meses, coincidiendo con la duración del curso de Data Science en Coderhouse, que abarcó desde el 26 de septiembre de 2023 hasta el 15 de mayo de 2024.
