@@ -1,0 +1,37 @@
+* Agregar la informacion de que CB GK y ST son las posiciones donde mas jugadores hay en el mundo.
+
+* Analizar el Club Boca juniors, Posiciones, Edades.
+
+* Analizar las posiciones de los jugadores de Boca Juniors con grafico al igual que en Graficos y Relaciones.
+
+*** REVISAR ORTOGRAFIA.
+
+*** Convertir todos los graficos a lo mas profesional posible con GPT, y evaluar resultados.
+
+*** Intentar iterar en cada registro del df para predecir e ir prediciendo para cada registro el valor de clausula
+y agregarlo en donde anteriormente habia un valor nulo. 
+
+*** Ver grafica del Boca Juniors a lo largo de los años.
+
+*** Evaluar las tablas de Posicionesp
+
+* Crear informe en word y guardar en pdf.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
