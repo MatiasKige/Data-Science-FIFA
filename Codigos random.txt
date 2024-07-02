@@ -1,0 +1,35 @@
+df.sort_values(by="age", ascending=False)     # Ordena los valores de una columna por "age"
+
+df[df["value_eur"].isnull()]      # Ver el dataframe con los valores nulos en la columna "value_eur"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

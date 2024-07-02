@@ -1,0 +1,44 @@
+df (Dataset completo)
+	
+df_24 (Datos del 2024)
+	-Se eliminan los registros de Boca Juniors.
+	-Se elimina a M. Perez Guedes.
+	-Se elimina a G. Bou.
+	-Se elimina a C. Lema.
+	-Se elimina a K. Zennon.
+	-Se elimina a L. Blanco.
+df_boca (Plantel Boca Juniors)
+	-Se modifica año de finalizacion de contrato: 2023 -> 2025.
+	-Se elimina a D. Gonzalez.
+	-Se elimina a F. Roncaglia.
+	-Se elimina a V. Barco.
+	-Se elimina a N. Briasco.
+	-Se elimina a B. Valdez.
+	-Se elimina a E. Cavani.
+	-Se agrega a M. Perez Guedes.
+	-Se agrega a G. Bou.
+	-Se agrega a L. Giannetti.
+	-Se agrega a J. Carranza.
+	-Se agrega a C. Lema.
+	-Se agrega a K. Zennon.
+	-Se agrega a L. Blanco.
+df_renovacion (Jugadores de Boca que renuevan contrato)
+	-Se agrega a M. Merentiel.
+df_contratos_vencidos (Contratos vencidos antes del 2024 con edad menor a 35 años del df_24)
+	-Se elimina a M. Perez Guedes.
+	-Se elimina a G. Bou.
+	-Se elimina a L. Giannetti.
+	-Se elimina a J. Carranza.
+df_no_renovados (Contratos no renovados de Boca del df_boca)
+	-Se agrega a D. Gonzalez.
+	-Se agrega a F. Roncaglia.
+	-Se agrega a V. Barco.
+	-Se agrega a N. Briasco.
+	-Se agrega a B. Valdez.
+	-Se agrega a E. Cavani.
+df_refuerzos (Jugadores entrantes al club)
+	-Se agrega a M. Perez Guedes
+	-Se agrega a G. Bou
+	-Se agrega a J. Carranza.
+	-Se agrega a C. Lema.
+	-Se agrega a L. Blanco.
